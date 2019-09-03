@@ -1,0 +1,7 @@
+main: reaperz.plugin.main.main
+author: reaperz2403
+version: 1.0.0
+name: PluginRA
+commands:
+  nick:
+    description: nick
